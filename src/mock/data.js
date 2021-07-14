@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Compare Geodatabases ',
-    info: 'The tool developed during my time with Yavapai County creates a list of discrepancies between two geodatabases.',
+    info: 'The tool developed during my time with Yavapai County, creates a list of discrepancies between two geodatabases.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
