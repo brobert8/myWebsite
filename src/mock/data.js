@@ -58,8 +58,8 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: 'Contact me!',
-  btn: 'dagger8121@gmail.com',
-  email: 'dagger8121@gmail.com',
+  btn: 'btr69@nau.edu',
+  email: 'btr69@nau.edu',
 };
 
 // FOOTER DATA
