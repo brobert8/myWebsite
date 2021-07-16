@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Peer Pad',
     info: 'A web based system for students / writers where members create a profile and upload their papers to get their work peer reviewed in exchange for peer reviewing other members work. We are driving for a healthy community and would like to thank you for your interest or viewing of Peer Pad.',
     info2: '',
-    url: '',
+    url: 'https://github.com/brobert8/CS386-Group2',
     repo: 'https://github.com/brobert8/CS386-Group2',
   },
   {
@@ -41,17 +41,17 @@ export const projectsData = [
     title: 'Compare Geodatabases ',
     info: 'The tool developed during my time with Yavapai County, creates a list of discrepancies between two geodatabases.',
     info2: '',
-    url: '',
+    url: 'https://github.com/brobert8?tab=repositories',
     repo: 'https://github.com/brobert8?tab=repositories', 
   }
 //  {
 //    id: nanoid(),
-//    img: 'project.jpg',
+//    img: '',
 //    title: '',
 //    info: '',
 //    info2: '',
 //    url: '',
-//    repo: 'https://github.com/cobidev/react-simplefolio',
+//    repo: '',
 //  },
 ];
 
