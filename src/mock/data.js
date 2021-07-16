@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Brandon | Intern Developer', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: 'Welcome', // e.g: Welcome to my website
+  title: 'Brandon | Intern Developer', 
+  lang: '', 
+  description: 'Welcome', 
 };
 
 // HERO DATA
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Hi, my name is Brandon Roberts, Intern Developer. Currently studying Computer Science at Northern Arizona University. Looking to work with a company that will advance my skills as a developer while also making an impact in the innovations of tomorrow.',
   paragraphTwo: 'Worked with Yavapai County GIS to develop applications for implementing systems and databases for geospatial data. Well-versed in Java/Python having 4+ years of experience. 2 years with C/C++/C# as well as PHP development in a web dev environment.',
   paragraphThree: 'Thank you for taking the time to look at who I am!',
-  resume: 'https://drive.google.com/file/d/10cOqXK1Oau7AQnhNYaarcQHSlodmKRyl/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/10cOqXK1Oau7AQnhNYaarcQHSlodmKRyl/view?usp=sharing', 
 };
 
 // PROJECTS DATA
@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A web based system for students / writers where members create a profile and upload their papers to get their work peer reviewed in exchange for peer reviewing other members work. We are driving for a healthy community and would like to thank you for your interest or viewing of Peer Pad.',
     info2: '',
     url: '',
-    repo: 'https://github.com/brobert8/CS386-Group2', // if no repo, the button will not show up
+    repo: 'https://github.com/brobert8/CS386-Group2',
   },
   {
     id: nanoid(),
@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'The tool developed during my time with Yavapai County, creates a list of discrepancies between two geodatabases.',
     info2: '',
     url: '',
-    repo: 'https://github.com/brobert8?tab=repositories', // if no repo, the button will not show up
+    repo: 'https://github.com/brobert8?tab=repositories', 
   }
 //  {
 //    id: nanoid(),
@@ -51,7 +51,7 @@ export const projectsData = [
 //    info: '',
 //    info2: '',
 //    url: '',
-//    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+//    repo: 'https://github.com/cobidev/react-simplefolio',
 //  },
 ];
 
@@ -90,5 +90,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, 
 };
