@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hi, my name is Brandon Roberts, Intern Developer. Currently studying Computer Science at Northern Arizona University. Looking to work with a company that will advance my skills as a developer while also making an impact in the innovations of tomorrow.',
-  paragraphTwo: 'Worked with Yavapai County GIS to develop applications for implementing systems and databases for geospatial data. Well-versed in Java/Python having 4+ years of experience. 2 years with C/C++/C# as well as PHP development in a web dev environment.',
+  paragraphTwo: 'Worked with Yavapai County GIS developing applications for implementing systems and databases for geospatial data. Well-versed in Java/Python having 4+ years of experience. 2 years with C/C++/C# as well as PHP development in a web dev environment.',
   paragraphThree: 'Thank you for taking the time to look at who I am!',
   resume: 'https://drive.google.com/file/d/10cOqXK1Oau7AQnhNYaarcQHSlodmKRyl/view?usp=sharing', 
 };
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Compare Geodatabases ',
-    info: 'The tool developed during my time with Yavapai County, creates a list of discrepancies between two geodatabases.',
+    info: 'Tool developed during my time with Yavapai County, creates a list of discrepancies between two geodatabases.',
     info2: '',
     url: 'https://github.com/brobert8?tab=repositories',
     repo: 'https://github.com/brobert8?tab=repositories', 
