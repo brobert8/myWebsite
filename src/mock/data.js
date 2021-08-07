@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Hi, my name is Brandon Roberts, Intern Developer. Currently studying Computer Science at Northern Arizona University. Looking to work with a company that will advance my skills as a developer while also making an impact in the innovations of tomorrow.',
+  paragraphOne: 'Hello, my name is Brandon Roberts, currently working as a Intern Developer.Studying Computer Science at Northern Arizona University. Looking to work with a company that will advance my knowledge as a developer while also making an impact on the innovations of tomorrow.',
   paragraphTwo: 'Worked with Yavapai County GIS developing applications for implementing systems and databases for geospatial data. Well-versed in Java/Python having 4+ years of experience. 2 years with C/C++/C# as well as PHP development in a web dev environment.',
   paragraphThree: 'Thank you for taking the time to look at who I am!',
   resume: 'https://drive.google.com/file/d/10cOqXK1Oau7AQnhNYaarcQHSlodmKRyl/view?usp=sharing', 
